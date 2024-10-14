@@ -3,14 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "acf5635f8be0eaa7c7ebf43a8799e82c",
-"assets/AssetManifest.bin.json": "70f0dca04acfa50fd0455f5d0e54c1b0",
-"assets/AssetManifest.json": "964b23b06f8e951dba0af2fe5f20ec3f",
+const RESOURCES = {"assets/AssetManifest.bin": "036201036cc275a84f504775289362c2",
+"assets/AssetManifest.bin.json": "35fc74794df843de0f3e0a903a750cfe",
+"assets/AssetManifest.json": "9a34f6e8dc33809b239bef5c0a3891b2",
 "assets/assets/documents/fayssal_ben_hammou_CV2024.pdf": "39aa649e18bdb1e5d08b61fc3196c05e",
 "assets/assets/images/3D-background.jpg": "8d1d33adebb0152285a5defc0d7a7b8d",
 "assets/assets/images/Android.png": "ff7628665bdaf630c21aab7375fd264c",
 "assets/assets/images/C.png": "e52c7c056c750e0e4d557f6a96cd19f8",
-"assets/assets/images/city_background.jpg": "54a3e33a214cb0e9d6f0b5cf06db7e95",
 "assets/assets/images/Cplus.png": "c2a1f6e84e1bef46c8d91ed0cdb3c4a3",
 "assets/assets/images/CSS3.png": "75fced495f3b95e412378c1cb6729ad8",
 "assets/assets/images/einstein.jpg": "10b96038c1929d8ea1013630217c3d31",
@@ -41,12 +40,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "acf5635f8be0eaa7c7ebf43a8799e82c
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "7a26ea9d4e61122fc023b84e5acdb148",
 "flutter.js": "f31737fb005cd3a3c6bd9355efd33061",
-"flutter_bootstrap.js": "7ac3f20902aa9ea56be222039111fad1",
+"flutter_bootstrap.js": "d8c4ba07640488d28fba69d00c1b4e5f",
 "icons/favicon.png": "7a26ea9d4e61122fc023b84e5acdb148",
 "icons/Icon-192.png": "12d05db1c0b26d429b54e3f8c946a496",
 "icons/Icon-512.png": "aabba36693aba0ec8d954adf297d3125",
-"index.html": "1bd8c8499c2c47dd226f97bd0801fc7d",
-"/": "1bd8c8499c2c47dd226f97bd0801fc7d",
+"index.html": "bdd27322984194bb3f01d48baab01bb1",
+"/": "bdd27322984194bb3f01d48baab01bb1",
 "main.dart.js": "429109d1d994698b246f48006fefe515",
 "manifest.json": "aa90c251682e60528c19d53a6671bc0d",
 "version.json": "6047616da5a9cf603d56ff2cef287851"};
